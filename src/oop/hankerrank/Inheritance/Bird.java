@@ -1,6 +1,4 @@
-package oop.hankerrank.inheritance;
-
-import oop.hankerrank.inheritance.Animal;
+package oop.hankerrank.Inheritance;
 
 public class Bird extends Animal {
     void fly(){

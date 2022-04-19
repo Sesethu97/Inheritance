@@ -1,4 +1,4 @@
-package oop.hankerrank.inheritance;
+package oop.hankerrank.Inheritance;
 
 public class Animal {
     void walk(){

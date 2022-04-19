@@ -1,4 +1,4 @@
-package oop.hankerrank.inheritanceTwo;
+package oop.hankerrank.InheritanceTwo;
 
 public class main {
     public static void main(String[] args) {
